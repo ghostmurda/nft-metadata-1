@@ -1,7 +1,9 @@
 {
-    "id": 0,
-    "description": "Крокодил, тестовый токен для курсового проекта",
-    "image": "https://twemoji.maxcdn.com/svg/1f40a.svg",
-    "name": "Crocodile NFT",
-    "price": "0.01 ETH"
+    "token": {
+        "id": 0,
+        "description": "Крокодил, тестовый токен для курсового проекта",
+        "image": "https://twemoji.maxcdn.com/svg/1f40a.svg",
+        "name": "Crocodile NFT",
+        "price": "0.01 ETH"
+    }
 }
